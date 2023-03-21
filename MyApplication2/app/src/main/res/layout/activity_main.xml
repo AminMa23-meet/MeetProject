@@ -25,7 +25,8 @@
         android:ems="10"
         android:hint="Email"
         android:inputType="textPersonName"
-        android:text="" />
+        android:text=""
+        android:background="@drawable/edittext"/>
 
     <EditText
         android:id="@+id/Password"
@@ -35,21 +36,24 @@
         android:hint="Password"
         android:gravity="center"
         android:inputType="textPersonName"
-        android:text="" />
+        android:text=""
+        android:background="@drawable/edittext"/>
 
     <Button
         android:id="@+id/SignIn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="SignIn" />
+        android:text="SignIn"
+        android:background="@drawable/button"/>
 
     <Button
         android:id="@+id/SignUp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="SignUp" />
+        android:text="SignUp"
+        android:background="@drawable/button"/>
 
 
 </LinearLayout>

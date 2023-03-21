@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554884520614",
+    "firebase_url": "https://meet-labs-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "meet-labs",
+    "storage_bucket": "meet-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554884520614:android:f67b3ec4fcb23f4e2fb267",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554884520614-92dou5oauapm5cb622cg5dmlfk3dg9c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtF_GTKqv3Zz_eHaVo_TjBl_6HScQ-xIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554884520614-92dou5oauapm5cb622cg5dmlfk3dg9c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
